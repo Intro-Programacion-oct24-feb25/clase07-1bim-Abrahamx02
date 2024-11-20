@@ -9,7 +9,7 @@ package ejemplociclowhile;
  *
  * @author reroes
  */
-public class Ejemplo011 {
+public class Ejemplo0112 {
 
     /**
      * @param args the command line arguments
@@ -24,7 +24,7 @@ public class Ejemplo011 {
              contador = contador + 1;
 
         }
-        System.out.printf("contador fuera del while: %d\n", contador);
+       
         
         
     }
